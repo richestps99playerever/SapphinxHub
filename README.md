@@ -1,5 +1,5 @@
 # SapphinxHub
-script: loadstring(game:HttpGet("https://pastebin.com/raw/amL6hW3S", true))()
+loadstring(game:HttpGet("https://pastebin.com/raw/amL6hW3S", true))()
 
 Auto Farm
 
